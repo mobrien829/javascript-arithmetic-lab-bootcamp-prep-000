@@ -1,6 +1,6 @@
 function add(a, b) {
   parseInt(a, b)
-  return `a + b`
+  a + b
 }
 
 function subtract(a, b) {
